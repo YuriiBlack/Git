@@ -11,6 +11,9 @@ namespace Git
         /// <summary>
         /// Add a array
         /// </summary>
-        int[] arr = { 1, 2, 3  };
+        int[] arr = { 1, 2, 3 };
+        int[] arr1 = { 1, 2, 3 };
+
+      
     }
 }
