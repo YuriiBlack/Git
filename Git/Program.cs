@@ -8,5 +8,9 @@ namespace Git
         {
             Console.WriteLine("Hello World!");
         }
+        /// <summary>
+        /// Add a array
+        /// </summary>
+        int[] arr = { 1, 2 };
     }
 }
